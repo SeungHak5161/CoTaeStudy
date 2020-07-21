@@ -16,10 +16,22 @@
     <Filter Include="소스 파일\삼성SW역량개발">
       <UniqueIdentifier>{3b1a8eef-b124-4283-9dea-6cd3bec17e63}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Programers.co.kr">
+      <UniqueIdentifier>{f736ae08-8e9f-4620-8458-2560f0a7e64e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Programers.co.kr\DFS/BFS">
+      <UniqueIdentifier>{ada67407-2013-46a1-b5d7-8cc614e4573a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="19236_청소년 상어.c">
       <Filter>소스 파일\삼성SW역량개발</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="targetNumber.cpp">
+      <Filter>소스 파일\Programers.co.kr\DFS/BFS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
