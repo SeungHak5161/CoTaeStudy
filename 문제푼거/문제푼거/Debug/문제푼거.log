@@ -1,2 +1,3 @@
-﻿  targetNumber.cpp
+﻿  truck_across_bridge.cpp
+c:\users\bsh\dropbox\code\git\gonygony\문제푼거\문제푼거\truck_across_bridge.cpp(10): warning C4091: 'typedef ': 변수를 선언하지 않으면 'truck' 왼쪽은 무시됩니다.
   문제푼거.vcxproj -> C:\Users\BSH\Dropbox\code\git\gonyGony\문제푼거\Debug\문제푼거.exe
