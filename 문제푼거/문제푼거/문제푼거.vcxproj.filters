@@ -22,6 +22,12 @@
     <Filter Include="소스 파일\Programers.co.kr\DFS/BFS">
       <UniqueIdentifier>{ada67407-2013-46a1-b5d7-8cc614e4573a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Programers.co.kr\Stack/Queue">
+      <UniqueIdentifier>{c753d98c-084a-45db-a03e-3ee263984c15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Programers.co.kr\Hash">
+      <UniqueIdentifier>{57b7678e-374e-46cb-8562-0684fa3f1835}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="19236_청소년 상어.c">
@@ -34,7 +40,10 @@
       <Filter>소스 파일\Programers.co.kr\DFS/BFS</Filter>
     </ClCompile>
     <ClCompile Include="truck_across_bridge.cpp">
-      <Filter>소스 파일\Programers.co.kr</Filter>
+      <Filter>소스 파일\Programers.co.kr\Stack/Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="unfinishAthlete.cpp">
+      <Filter>소스 파일\Programers.co.kr\Hash</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
