@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\정렬">
+      <UniqueIdentifier>{1e728cd1-41ca-43ea-8607-0463e91b760a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\단계별로 풀어보기 pt.1">
+      <UniqueIdentifier>{fb84275c-f47c-42f6-937a-74c337742444}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DP">
+      <UniqueIdentifier>{4b29cd5c-89d9-43e5-a438-f237d1dca7c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\위상정렬">
+      <UniqueIdentifier>{64e90add-306c-4686-9e23-54985e51603f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\소프트웨어경진대회">
+      <UniqueIdentifier>{41c20a19-015e-4da7-8e40-26ee8a4e5927}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\분류없음">
+      <UniqueIdentifier>{7f7a1261-27d4-44bc-b742-5546cecb2678}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1427_SortInside.c">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="1074_Z.c">
+      <Filter>소스 파일\단계별로 풀어보기 pt.1</Filter>
+    </ClCompile>
+    <ClCompile Include="1065_HanSoo.c">
+      <Filter>소스 파일\단계별로 풀어보기 pt.1</Filter>
+    </ClCompile>
+    <ClCompile Include="1018_ChessPlate.c">
+      <Filter>소스 파일\단계별로 풀어보기 pt.1</Filter>
+    </ClCompile>
+    <ClCompile Include="1018_1.c">
+      <Filter>소스 파일\단계별로 풀어보기 pt.1</Filter>
+    </ClCompile>
+    <ClCompile Include="2902_KMP.c">
+      <Filter>소스 파일\단계별로 풀어보기 pt.1</Filter>
+    </ClCompile>
+    <ClCompile Include="2971_CroatiaAlphabet.c">
+      <Filter>소스 파일\단계별로 풀어보기 pt.1</Filter>
+    </ClCompile>
+    <ClCompile Include="2752_threeNumber.c">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="파일입출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10814_AgeSort.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="1431_SerialNumber.c">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="1181_WordSort.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="2133_Tiling3.c">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="2747_Fibonacci.c">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="11717_Tiling2.c">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="11726_Tiling.c">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="1463_Make1.c">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="1516_GameDevelop.c">
+      <Filter>소스 파일\위상정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="2252_Ranking.c">
+      <Filter>소스 파일\위상정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="a.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="small_straight.c">
+      <Filter>소스 파일\소프트웨어경진대회</Filter>
+    </ClCompile>
+    <ClCompile Include="1010_LyingBridge.c">
+      <Filter>소스 파일\분류없음</Filter>
+    </ClCompile>
+    <ClCompile Include="2292_BeeHive.c">
+      <Filter>소스 파일\분류없음</Filter>
+    </ClCompile>
+    <ClCompile Include="2316_RoundTrip2.cpp">
+      <Filter>소스 파일\분류없음</Filter>
+    </ClCompile>
+    <ClCompile Include="2789_BlackJack.c">
+      <Filter>소스 파일\분류없음</Filter>
+    </ClCompile>
+    <ClCompile Include="11729_HanoiTower.c">
+      <Filter>소스 파일\분류없음</Filter>
+    </ClCompile>
+    <ClCompile Include="cu1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

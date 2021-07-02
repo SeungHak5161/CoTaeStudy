@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Programers.co.kr\Hash">
       <UniqueIdentifier>{57b7678e-374e-46cb-8562-0684fa3f1835}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Programers.co.kr\Heap">
+      <UniqueIdentifier>{52695f59-a1bb-442a-86ed-51fc57e638e1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="19236_청소년 상어.c">
@@ -44,6 +47,12 @@
     </ClCompile>
     <ClCompile Include="unfinishAthlete.cpp">
       <Filter>소스 파일\Programers.co.kr\Hash</Filter>
+    </ClCompile>
+    <ClCompile Include="scoville.cpp">
+      <Filter>소스 파일\Programers.co.kr\Heap</Filter>
+    </ClCompile>
+    <ClCompile Include="level1-1.c">
+      <Filter>소스 파일\Programers.co.kr</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
