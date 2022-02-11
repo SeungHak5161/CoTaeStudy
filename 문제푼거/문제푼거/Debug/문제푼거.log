@@ -1,3 +1,0 @@
-﻿  level1-1.c
-c:\users\bsh\dropbox\code\git\gonygony\문제푼거\문제푼거\level1-1.c(11): warning C4047: '=': 'char'의 간접 참조 수준이 'char [2]'과(와) 다릅니다.
-  문제푼거.vcxproj -> C:\Users\BSH\Dropbox\code\git\gonyGony\문제푼거\Debug\문제푼거.exe
