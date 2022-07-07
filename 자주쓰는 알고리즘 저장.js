@@ -11,7 +11,7 @@ function primeFactors(n) {
   return answer;
 }
 
-// 2진수 배열 10진수 정수로 변환
+// 2진수  배열 10진수 정수로 변환
 function decimal(arr) {
   let ret = 0;
   for (i = 0; i < arr.length; i++) {
