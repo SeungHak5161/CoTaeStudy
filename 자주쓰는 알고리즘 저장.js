@@ -52,7 +52,7 @@ function removeSpecialData(originalData) {
   // [2] 정규식 형태 선언 (특수문자, 괄호, 점 모두 제거 실시 - 공백은 제거 안함)
   //var reg = /[`~!@#$%^&*()_|+\-=?;:'",.<>\{\}\[\]\\\/]/gim;
 
-  // [3] 정규식 형태 선언 (특수문자, 괄호, 공백 모두 제거 실시 - 점은 제거 안함)
+  // [3] 정규식 형태 선언 (특수문자, 괄호, 공백 모두 제거 실시 - 점은 제거 안함) 
   //var reg = /[`~!@#$%^&*()_|+\-=?;:'"<>\{\}\[\]\\\/ ]/gim;
   var resultData = originalData.replace(reg, "");
   console.log(resultData);
